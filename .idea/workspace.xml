@@ -6,18 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="af821836-f822-4621-8cb6-d11f709bd8f7" name="Changes" comment="Primeiro Commit">
       <changelist_data name="aranjhonn" email="" automatic="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maratona-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula01OlaDevDojo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula02TiposPrimitivos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula03TiposPrimitivosExercicios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula04Operadores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
